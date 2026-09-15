@@ -1,0 +1,11 @@
+{
+  "slug": "roast-onchain",
+  "name": "Roast Onchain",
+  "kind": "proof",
+  "description": "Turn a playful roast into a signer-attributed, shareable transaction artifact.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
