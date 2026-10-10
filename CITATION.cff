@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "roast-onchain"
+abstract: "Turn a playful roast into a signer-attributed, shareable transaction artifact."
+repository-code: "https://github.com/nirholas/roast-onchain"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
