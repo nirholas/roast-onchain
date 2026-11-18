@@ -8,7 +8,7 @@ Turn a playful roast into a signer-attributed, shareable transaction artifact.
 
 - Source: https://github.com/nirholas/roast-onchain
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
